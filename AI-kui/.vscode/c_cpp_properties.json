@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\Amamba\\envs\\d2l\\Lib\\site-packages\\torch\\include\\torch",
+                "D:\\Amamba\\envs\\d2l\\Lib\\site-packages\\torch\\include\\torch\\csrc\\api\\include",
+                "D:/Amamba/envs/d2l/Lib/site-packages/torch/include",
+            ],
+            "compilerPath": "D:/mingw/Mingwinstall/mingw64/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
